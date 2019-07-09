@@ -1,1 +1,1 @@
-# http://mahta-r.github.io
+# http://mahta.github.io
